@@ -1,0 +1,3 @@
+=== Log del Programa ===
+2024-07-10 11:37:13 - Opción elegida: 12
+2024-07-10 11:37:13 - Programa cerrado correctamente.
